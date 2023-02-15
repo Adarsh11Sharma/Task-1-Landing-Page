@@ -1,0 +1,48 @@
+/* 
+
+.container{
+    
+    background-image: url(img/bg.jpg);
+    height:100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 100%;
+    margin:0px;
+
+
+}
+.right{
+    margin-right: 10px 10px;
+    float:right;
+    display: inline;
+    border: 2px solid red;
+}
+.mid{
+    margin: 0px 2500px;
+    display: inline-block;
+    border: 2px solid red;
+    width:35%;
+    
+    
+}
+.left{
+    margin: 50px 50px;
+    display: inline;
+    border: 2px solid red;
+}
+.navbar{
+    display: inline-block;
+}
+.navbar li{
+    display:inline-block;
+}
+.navbar li a{
+    padding :40px 40px;
+    font-size:100px;
+    text-decoration: underline;
+}
+.navbar li a:hover, .navbar li a:active{
+    text-decoration: solid;
+    color: yellow ;
+}  */
